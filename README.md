@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bethanyrose1 or Bee 🐝
-- 👀 I’m interested in learning to code 👩‍💻, running 🏃‍♀️ and lifting 💪
+- 👀 I’m interested in learning 👩‍💻, running 🏃‍♀️ and lifting 💪
 - 🌱 I’m currently learning HTML, CSS and Java through The Odin Project ✨
 - 📫 How to reach me bpsciencelessons@gmail.com
 
